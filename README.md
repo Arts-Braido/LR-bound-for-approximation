@@ -1,6 +1,6 @@
 # LR-bound-for-approximation
 
-This repository contains the code used in INSERT_HERE_ARXIV_LINK_WHEN_WE_HAVE_IT in order to compute a lower bound on the achievable approximation ratio of MaxCut over cubic graphs using quantum annealing.
+This repository contains the code used in https://arxiv.org/abs/2311.12732 in order to compute a lower bound on the achievable approximation ratio of MaxCut over cubic graphs using quantum annealing.
 
 
 Installation
